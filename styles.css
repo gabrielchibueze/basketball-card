@@ -1,5 +1,8 @@
 body {
     background-image: url("images/basketball-background.webp");
+    min-width: 100%;
+    user-select: none;
+    user-zoom: fixed;
 }
 .digital-font {
     font-family: 'Orbitron', sans-serif;
